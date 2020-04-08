@@ -1,0 +1,13 @@
+C:\игры\программы для iba\task_6\task_6\task_6\bin\Debug\netcoreapp3.1\task_6.exe
+C:\игры\программы для iba\task_6\task_6\task_6\bin\Debug\netcoreapp3.1\task_6.deps.json
+C:\игры\программы для iba\task_6\task_6\task_6\bin\Debug\netcoreapp3.1\task_6.runtimeconfig.json
+C:\игры\программы для iba\task_6\task_6\task_6\bin\Debug\netcoreapp3.1\task_6.runtimeconfig.dev.json
+C:\игры\программы для iba\task_6\task_6\task_6\bin\Debug\netcoreapp3.1\task_6.dll
+C:\игры\программы для iba\task_6\task_6\task_6\bin\Debug\netcoreapp3.1\task_6.pdb
+C:\игры\программы для iba\task_6\task_6\task_6\obj\Debug\netcoreapp3.1\task_6.csprojAssemblyReference.cache
+C:\игры\программы для iba\task_6\task_6\task_6\obj\Debug\netcoreapp3.1\task_6.csproj.CoreCompileInputs.cache
+C:\игры\программы для iba\task_6\task_6\task_6\obj\Debug\netcoreapp3.1\task_6.AssemblyInfoInputs.cache
+C:\игры\программы для iba\task_6\task_6\task_6\obj\Debug\netcoreapp3.1\task_6.AssemblyInfo.cs
+C:\игры\программы для iba\task_6\task_6\task_6\obj\Debug\netcoreapp3.1\task_6.dll
+C:\игры\программы для iba\task_6\task_6\task_6\obj\Debug\netcoreapp3.1\task_6.pdb
+C:\игры\программы для iba\task_6\task_6\task_6\obj\Debug\netcoreapp3.1\task_6.genruntimeconfig.cache
